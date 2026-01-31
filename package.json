@@ -239,7 +239,11 @@
     "overrides": {
       "@sinclair/typebox": "0.34.47",
       "tar": "7.5.7"
-    }
+    },
+    "ignoredBuiltDependencies": [
+      "core-js",
+      "node-llama-cpp"
+    ]
   },
   "vitest": {
     "coverage": {
