@@ -3,6 +3,12 @@
 
 **GenSparx** is a controllable, security-first AI agent platform built for developers and teams who want automation **without surrendering control**.
 
+> **Rebrand Notice**
+>
+> GenSparx is a rebranded and independently maintained distribution of OpenClaw.
+> It builds on the OpenClaw codebase while focusing on improved UX, accessibility,
+> and practical safeguards for broader adoption.
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
