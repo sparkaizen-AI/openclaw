@@ -1,4 +1,9 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# GenSparx
+
+**GenSparx** is a controllable, security-first AI agent platform built for developers and teams who want automation **without surrendering control**.
+# GenSparx
+
+**GenSparx** is a controllable, security-first AI agent platform built for developers and teams who want automation **without surrendering control**.
 
 <p align="center">
     <picture>
